@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\Desktop\\\u043D\u0430\u0432\u0430\u043B\u044C\u043D\u044B \u0432\u0438\u0440\u0443\u0441\\git\\fedyushkin-kirill-software-modules\\10-11 \u043B\u0430\u0431\u0430\\2 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\fedyushkin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851B2616-2765-F64A-C920-AA7993AA2966}|fedyushkin\\fedyushkin.csproj|c:\\users\\413\\desktop\\\u043D\u0430\u0432\u0430\u043B\u044C\u043D\u044B \u0432\u0438\u0440\u0443\u0441\\git\\fedyushkin-kirill-software-modules\\10-11 \u043B\u0430\u0431\u0430\\2 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\fedyushkin\\fedyushkin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B2616-2765-F64A-C920-AA7993AA2966}|fedyushkin\\fedyushkin.csproj|solutionrelative:fedyushkin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 109,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Desktop\\\u043D\u0430\u0432\u0430\u043B\u044C\u043D\u044B \u0432\u0438\u0440\u0443\u0441\\git\\fedyushkin-kirill-software-modules\\10-11 \u043B\u0430\u0431\u0430\\2 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\fedyushkin\\fedyushkin\\Program.cs",
+              "RelativeDocumentMoniker": "fedyushkin\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Desktop\\\u043D\u0430\u0432\u0430\u043B\u044C\u043D\u044B \u0432\u0438\u0440\u0443\u0441\\git\\fedyushkin-kirill-software-modules\\10-11 \u043B\u0430\u0431\u0430\\2 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\fedyushkin\\fedyushkin\\Program.cs",
+              "RelativeToolTip": "fedyushkin\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:44:44.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

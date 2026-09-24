@@ -1,0 +1,14 @@
+C:\Users\413\source\repos\fedyushkin\fedyushkin\bin\Debug\net8.0\fedyushkin.exe
+C:\Users\413\source\repos\fedyushkin\fedyushkin\bin\Debug\net8.0\fedyushkin.deps.json
+C:\Users\413\source\repos\fedyushkin\fedyushkin\bin\Debug\net8.0\fedyushkin.runtimeconfig.json
+C:\Users\413\source\repos\fedyushkin\fedyushkin\bin\Debug\net8.0\fedyushkin.dll
+C:\Users\413\source\repos\fedyushkin\fedyushkin\bin\Debug\net8.0\fedyushkin.pdb
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\fedyushkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\fedyushkin.AssemblyInfoInputs.cache
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\fedyushkin.AssemblyInfo.cs
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\fedyushkin.csproj.CoreCompileInputs.cache
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\fedyushkin.dll
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\refint\fedyushkin.dll
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\fedyushkin.pdb
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\fedyushkin.genruntimeconfig.cache
+C:\Users\413\source\repos\fedyushkin\fedyushkin\obj\Debug\net8.0\ref\fedyushkin.dll
